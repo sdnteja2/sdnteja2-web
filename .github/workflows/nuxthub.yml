@@ -34,4 +34,4 @@ jobs:
         uses: nuxt-hub/action@v1
         id: deploy
         with:
-          project-key: permadi-yd6b
+          project-key: sdnteja2-web-lcye
